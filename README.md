@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <br>
     <h4>😻Portfolio😻</h4>
     <a href="https://kaia-dan.github.io/sojung_portfolio/" target="_blank"><img src="https://img.shields.io/badge/Click to view!-E71D29?style=flat-square&logo=Undertale&logoColor=white"/></a>
-    <br><br><br>
+    <br><br>
     <h4>✨Tech stacks✨</h4>
     <!-- HTML -->
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -49,11 +49,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
     <!-- Figma -->
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-    <br><br><br>
+    <br><br>
     <h4>💎Tools💎</h4>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <br><br><br>
+    <br><br>
     <h4>🌞SNS🌞</h4>
     <a href="https://kaia-dan.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
     <a href="https://www.instagram.com/_ho__ji" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
